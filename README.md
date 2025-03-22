@@ -1,6 +1,6 @@
 # Mercado BitC
 
-<img src="[imagem.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fandroid-developers.googleblog.com%2F2022%2F05%2Fwhats-new-in-jetpack-compose.html&psig=AOvVaw1qkaNv47NxZyitX1uxFtfh&ust=1742765194446000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIDeqLTQnowDFQAAAAAdAAAAABAE)" alt="Jetpack Compose">
+<img src="[imagem.png](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQyCrAWdIb8-moiYuP7EdpznRLOLaKoZWJ04MLzMi1wkJrMfLKQshwXhB_ODNz3T6_aoOwQ0YccVpSbLO2K9qkpx-HTklvNm3ZR_spOINLr861_PgDXDnh6LgpptIyzR5Nv-UjlQ-5FyeLpHwOCb4NjZ8darLIomTVjHM2VvDv7YZdzO-FS6zMKEhlCQ/s1600/Android-JetpackCompose1.2-Social.png)" alt="Jetpack Compose">
 
 > O projeto busca combinar ferramentas populares do Android e demonstrar as melhores práticas de desenvolvimento, utilizando uma tecnologia atualizada, como Compose, Kotlin Flow e Koin.
 O aplicativo de exemplo organiza sua camada de apresentação seguindo o padrão de arquitetura MVVM Clean Architecture.
