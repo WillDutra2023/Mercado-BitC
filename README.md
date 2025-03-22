@@ -2,6 +2,7 @@
 
 <img src="info/capa.png"/>
 
+# Sobre o projeto
 > O projeto busca combinar ferramentas populares do Android e demonstrar as melhores práticas de desenvolvimento, utilizando uma tecnologia atualizada, como Compose, Kotlin Flow e Koin.
 O aplicativo de exemplo organiza sua camada de apresentação seguindo o padrão de arquitetura MVVM Clean Architecture.
 
