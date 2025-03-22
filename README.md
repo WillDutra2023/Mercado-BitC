@@ -10,16 +10,17 @@ O aplicativo de exemplo organiza sua camada de apresentação seguindo o padrão
     * [MVVM Clean Architecture](https://medium.com/@ami0275/mvvm-clean-architecture-pattern-in-android-with-use-cases-eff7edc2ef76) - Uma arquitetura reativa e em camadas..
     * [Android Architecture components](https://developer.android.com/topic/libraries/architecture)
     * [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel),
-    * [Navigation](https://developer.android.com/jetpack/androidx/releases/navigation))
+    * [Navigation](https://developer.android.com/jetpack/androidx/releases/navigation)
     * [Android KTX](https://developer.android.com/kotlin/ktx) - Jetpack Kotlin extensions
 *	UI
-    * [Compose](https://developer.android.com/jetpack/compose) Framework de UI declarativo.
+    * [Compose](https://developer.android.com/jetpack/compose) - Framework de UI declarativo.
     * [Material design](https://material.io/design)
 
 ## Tech Stack
 
 - [Kotlin](https://kotlinlang.org/) - 100% de cobertura
-- [Compose](https://developer.android.com/jetpack/compose)
+  
+-    [Compose](https://developer.android.com/jetpack/compose)
       - [Material](https://developer.android.com/jetpack/androidx/releases/compose-material) - Construa interfaces no Jetpack Compose com componentes prontos do Material Design.
       - [Foundation](https://developer.android.com/jetpack/androidx/releases/compose-foundation) - Fornece blocos prontos para a criação de apps no Jetpack Compose e permite estender o sistema de design.
       - [UI](https://developer.android.com/jetpack/androidx/releases/compose-ui) - Componentes fundamentais para interface, incluindo layout, desenho e entrada de dados.
@@ -44,7 +45,3 @@ O aplicativo de exemplo organiza sua camada de apresentação seguindo o padrão
       - [Material Design](https://material.io/develop/android/docs/getting-started/) - Guia de design para criar interfaces atraentes.
       - [Coroutines](https://github.com/Kotlin/kotlinx.coroutines) - Suporte para programação assíncrona em Kotlin.
       - [Gson](https://github.com/google/gson) - Biblioteca para manipulação de JSON em Kotlin e Java.
-
-## 📝 Licença
-
-Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
